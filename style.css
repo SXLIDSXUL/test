@@ -43,7 +43,7 @@ body{
     border-radius: 20px;
     padding: 15px 20px;
     margin-bottom: 20px;
-    box-shadow: 5px 5px 5px 1px;
+    box-shadow: 5px 5px 15px;
 }
 
 .listtar{
@@ -60,7 +60,7 @@ body{
     padding: 15px 20px;
     margin-bottom: 20px;
     text-align: center;
-    box-shadow: 5px 5px 5px 1px;
+    box-shadow: 5px 5px 15px;
 
 }
 
@@ -69,7 +69,7 @@ body{
     border-radius: 25px;
     padding: 15px 20px;
     margin-bottom: 20px;
-    box-shadow: 5px 5px 5px 1px;
+    box-shadow: 5px 5px 15px;
 }
 
 .tabtime{
@@ -112,7 +112,7 @@ body{
     border-radius: 20px;
     padding: 15px 20px;
     margin-bottom: 20px;
-    box-shadow: 5px 5px 5px 1px;
+    box-shadow: 5px 5px 15px;
 }
 
 .contac a{
